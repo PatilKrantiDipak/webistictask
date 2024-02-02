@@ -32,11 +32,4 @@ ul{
     color: #fff;
     
 }
- @media (min-width: 100%){
-    .col-md-4 {
-      width: 10%;
-    }
-    .col-md-8 {
-      width:90%;
-    }
-}
+
